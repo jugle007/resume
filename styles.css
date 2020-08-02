@@ -1,0 +1,17 @@
+body { background-color: lavender;
+       border-style: dashed;
+       border-width: medium;}
+hr { border-top-style: dotted;
+     border-top-width: thick;
+     border-top-color: grey;
+     width: 10%; }
+h1 { color: blue;}
+h2 { color: #336D88;}
+h3 { color: #336D88;
+     text-align: center;}
+ol { text-align: left;
+     margin-left: 500px;}
+ul { text-align: left;
+     margin-left: 390px;}
+.center { margin-left: auto;
+          margin-right: auto;}
